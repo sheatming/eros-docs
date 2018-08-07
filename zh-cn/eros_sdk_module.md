@@ -1020,7 +1020,7 @@ tabbar.clearInfo()
 
 # bmBundleUpdate
 
-> 如果开发者不想使用 eros 的默认更新 jsbundle 机制，可以在 eros.native.js 中设置参数 `customBundleUpdate` 值为 `true`，然后使用此 module 来自定义更新逻辑，该 module 提供两个方法，一个是提供下载 jsbundle 资源方法，和应用最新资源方法；
+> 如果开发者不想使用 eros 的默认更新 jsbundle 机制，可以在 [eros.native.js](https://bmfe.github.io/eros-docs/#/zh-cn/base_config) 中设置参数 `customBundleUpdate` 值为 `true`，然后使用此 module 来自定义更新逻辑，该 module 提供两个方法，一个是提供下载 jsbundle 资源方法，和应用最新资源方法；
 
 **引用方式**
 
